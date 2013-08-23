@@ -1,0 +1,12 @@
+body {
+    background: url("http://risqlserver.universosigma.com.br/img/planofundo.jpg") center top repeat fixed #CDF;
+}
+
+.page_title_subhead_fake {
+    display:block;
+	margin-top:-10px;
+	text-align:center;
+	font-size:19px;
+	color:#777;
+}
+
